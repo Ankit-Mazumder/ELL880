@@ -1,2 +1,1 @@
-# ELL880
-Citation Recommendation system
+a simple readme goes here
